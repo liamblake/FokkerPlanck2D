@@ -1,0 +1,7 @@
+name = "FokkerPlanck2D"
+uuid = "f473150e-9957-4bcf-9c9c-36b5ed88dabf"
+authors = ["Liam Blake"]
+version = "0.0.1"
+
+[deps]
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
